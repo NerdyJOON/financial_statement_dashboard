@@ -1,0 +1,71 @@
+﻿CF_Order,Account
+1,Net Profit (Loss) for the Period
+2,Net profit (loss) of going concern
+3,Depreciation expenses
+4,Amortization expenses
+5,Provision for bad debt expenses (rolled into income).
+6,Net loss (gain) on financial assets and liabilities measured at fair value through profit or loss
+7,Amount of interest expense provision (reversals).
+8,Interest income
+9,Dividend income
+10,Share-based payment of remuneration costs
+11,The share of losses (gains) from related companies and joint ventures recognized using the equity method
+12,Disposal and disposal of fixed assets (gains)
+13,Loss (Gain) on Disposal of Intangible Assets
+14,Disposal of Investment Losses (Gains)
+15,Disposal of Investment Losses (Gains) Using the Equity Method
+16,Non-financial asset impairment loss (revolving gain)
+17,Unrealized Foreign Currency Exchange Loss (Gain)
+18,Other items
+19,Income and expenses and losses that do not affect cash flow
+20,Financial assets measured at fair value through profit or loss (increase) decrease
+21,Accounts receivable (increase) decrease
+22,Accounts receivable – related parties (increase) decrease
+23,Other receivables – related parties (increase) decrease
+24,Inventory (increase) decreases
+25,Other current assets (increase) decreased
+26,Other financial assets (increase) decrease
+27,Other operating assets (increase) decrease
+28,Total changes in net assets related to operating activities
+29,Accounts payable increase (decrease)
+30,Accounts Payable – Related Parties Increase (Decrease)
+31,Employee Benefit Debt Provisions Increase (Decrease)
+32,Other current liabilities increase (decrease)
+33,Increase (decrease) in other operating liabilities
+34,Total of net liabilities related to operating activities
+35,Total of net changes in assets and liabilities related to operating activities
+36,Total adjustment items
+37,Cash inflow (outflow) from operations
+38,Income tax (payment) refund
+39,Net cash inflow (outflow) from operating activities
+40,Decrease in financial assets measured at fair value through other consolidated income
+41,Financial assets measured at amortized cost (increase) decrease
+42,Principal repayment of financial assets measured at amortized cost
+43,Hedging derivative financial assets (increase) decreased
+44,Derivative financial liabilities for hedging are excluded
+45,Investment using the equity method (increased) decreased
+46,Fixed assets (increase) decrease
+47,Intangible assets (increase) decrease
+48,Right-of-use assets (increase) decrease
+49,Deposit margin (increases) decreases
+50,Other advance payments (increase) decrease
+51,Interest collected
+52,Dividends collected
+53,Other investment activities
+54,Net cash inflow (outflow) from investing activities
+55,Issuance (Redemption) of Corporate Bonds
+56,Increase (or decrease) in long-term borrowings
+57,Increase (decrease) in lease principal
+58,Deposit margin increases (decreases)
+59,Buyback sale of treasury shares
+60,Subsidiary equity (increase) decreases
+61,Cash dividends will be distributed
+62,Interest collected (paid).
+63,Changes in non-controlling interests
+64,Other financing activities
+65,Net cash inflow (outflow) from financing activities
+66,Exchange rate fluctuations have an impact
+67,Increase (decrease) in cash and cash equivalents during the period
+0,Opening cash and cash equivalents balance
+69,Cash and cash equivalents at the end of the period
+70,Financial Reports – Market Observation Post System

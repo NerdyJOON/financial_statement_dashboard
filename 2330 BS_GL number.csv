@@ -1,0 +1,67 @@
+﻿BS_Order,Account
+1,Cash and cash equivalents
+2,Financial assets measured at fair value through profit or loss – currents
+3,Financial assets measured at fair value through other comprehensive income – currents
+4,Financial assets measured at amortized cost – currents
+5,Hedging financial assets – Liquidity
+6,Accounts receivable
+7,Accounts receivable – related parties
+8,Other receivables – related parties
+9,Total receivables
+10,Inventory
+11,Other current assets
+12,Total current assets
+13,Financial assets measured at fair value through profit or loss – non-current
+14,Financial assets measured at fair value through other consolidated income – non-current
+15,Financial assets measured at amortized cost – non-current
+16,Investments using the equity method
+17,Total investment
+18,Total fixed assets
+19,Right-of-use assets
+20,Total intangible assets
+21,Deferred income tax assets
+22,Other assets – others
+23,Total of other assets
+24,Total non-current assets
+25,Total assets
+26,Financial liabilities measured at fair value through profit or loss – currents
+27,Hedging financial liabilities – currents
+28,Accounts payable
+29,Accounts payable – related parties
+30,Other payables
+31,Total payables
+32,Income tax liabilities for the current period
+33,Other current liabilities
+34,Total current liabilities
+35,Payable to corporate bonds
+36,Long-term loans
+37,Deferred income tax liabilities
+38,Lease liabilities – non-current
+39,Other liabilities—others
+40,Total of other liabilities
+41,Total non-current liabilities
+42,Total liabilities
+43,Common stock capital
+44,Pending cancellation of share capital
+45,Total share capital
+46,Capital surplus – issuance premium
+47,Capital surplus – the difference between the actual acquisition or disposal of equity in subsidiaries and the book value
+48,Capital Surplus – Recognition of changes in ownership interest in subsidiaries
+49,Capital surplus – gifted assets
+50,Capital Surplus – Changes in net equity value of related companies and joint ventures recognized using the equity method
+51,Capital surplus – consolidated surplus
+52,Capital surplus – restricted employee rights stock
+53,Total capital surplus
+54,Statutory surplus reserve
+55,Special surplus reserve
+56,Undistributed earnings (or losses pending coverage)
+57,Retention of the total surplus
+58,Other equity total
+59,Stocks in the treasury
+60,Total equity attributable to the parent company's owners
+61,Non-controlling interests
+62,Total shareholders' equity
+63,"Number of shares pending cancellation (10,000 shares)"
+64,Number of treasury shares held by the parent company and subsidiaries (in ten thousand shares)
+65,Net asset value per share (NTD)
+66,Financial Reports – Market Observation Post System
