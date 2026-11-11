@@ -34,6 +34,6 @@ Any feedback or thoughts are greatly appreciated. Feel free to connect with me!
 | **6** | `2330 IS_GL number.csv` | Synthetic income statement GL number table |
 | **7** | `Date_Table.csv` | Date table |
 | **8** | `Financial Statement Dashboard.jpg` | Full executive dashboard for balance sheet and Income statement |
-| **9** | `Cash Flow Dashboard.pdf` | Full executive dashboard for cash flow statement |
+| **9** | `Cash Flow Dashboard.jpg` | Full executive dashboard for cash flow statement |
 | **10** | `financial_statement_dashbord.pbix` | Full executive dashboard in Power BI format | [Download](./financial_statement_dashboard.pbix) |
 
